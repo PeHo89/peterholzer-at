@@ -84,7 +84,6 @@ body {
   grid-column-end: 3;
   grid-row-start: 6;
   grid-row-end: 7;
-  background-color: red;
 }
 
 #tech_stack_icon_2 {
@@ -92,7 +91,6 @@ body {
   grid-column-end: 4;
   grid-row-start: 6;
   grid-row-end: 7;
-  background-color: red;
 }
 
 #tech_stack_icon_3 {
@@ -100,7 +98,6 @@ body {
   grid-column-end: 5;
   grid-row-start: 6;
   grid-row-end: 7;
-  background-color: red;
 }
 
 #tech_stack_icon_4 {
@@ -108,7 +105,6 @@ body {
   grid-column-end: 6;
   grid-row-start: 6;
   grid-row-end: 7;
-  background-color: red;
 }
 
 #tech_stack_icon_5 {
@@ -116,7 +112,6 @@ body {
   grid-column-end: 3;
   grid-row-start: 7;
   grid-row-end: 8;
-  background-color: red;
 }
 
 #tech_stack_icon_6 {
@@ -124,7 +119,6 @@ body {
   grid-column-end: 4;
   grid-row-start: 7;
   grid-row-end: 8;
-  background-color: red;
 }
 
 #tech_stack_icon_7 {
@@ -132,7 +126,6 @@ body {
   grid-column-end: 5;
   grid-row-start: 7;
   grid-row-end: 8;
-  background-color: red;
 }
 
 #tech_stack_icon_8 {
@@ -140,7 +133,6 @@ body {
   grid-column-end: 6;
   grid-row-start: 7;
   grid-row-end: 8;
-  background-color: red;
 }
 
 #tech_stack_icon_9 {
@@ -148,7 +140,6 @@ body {
   grid-column-end: 3;
   grid-row-start: 8;
   grid-row-end: 9;
-  background-color: red;
 }
 
 #tech_stack_icon_10 {
@@ -156,7 +147,6 @@ body {
   grid-column-end: 4;
   grid-row-start: 8;
   grid-row-end: 9;
-  background-color: red;
 }
 
 #tech_stack_icon_11 {
@@ -164,7 +154,6 @@ body {
   grid-column-end: 5;
   grid-row-start: 8;
   grid-row-end: 9;
-  background-color: red;
 }
 
 #tech_stack_icon_12 {
@@ -172,5 +161,13 @@ body {
   grid-column-end: 6;
   grid-row-start: 8;
   grid-row-end: 9;
+}
+
+.tech_stack_icons {
   background-color: red;
+
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
 }
